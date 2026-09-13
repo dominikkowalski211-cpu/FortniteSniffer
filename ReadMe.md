@@ -1,4 +1,6 @@
-# How to use
+ezfn 
+haw ican use ezfn
+How to use
 
 1. Download the Release
 2. Download and install Wireshark
